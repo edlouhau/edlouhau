@@ -10,7 +10,7 @@ I really enjoy learning new languages and frameworks like Python and React. I al
 <img align="left" target="_blank" alt="JavaScript" height="30px" src="img/JavaScript-01.png" />
 <img align="left" target="_blank" alt="Bootstrap" height="30px" src="img/bootstrap-5-logo-icon.png" />
 <img align="left" target="_blank" alt="React" height="30px" src="img/React-01.png" />
-<!-- <img align="left" target="_blank" alt="Nextjs" height="30px" src="img/nextjs-icon.png" /> -->
+<img align="left" target="_blank" alt="Nextjs" height="30px" src="img/next-icon.png" />
 <img align="left" target="_blank" alt="Python" height="30px" src="img/python-programming-language-icon.png" />
 <img align="left" target="_blank" alt="Django" height="30px" src="img/django-logo-negative.png" />
 <img align="left" target="_blank" alt="MySQL" height="35px" src="img/MySQL-01.png" />

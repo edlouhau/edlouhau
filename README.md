@@ -1,4 +1,4 @@
-<img  target="_blank" alt="HTML" src="img/Header.png" />
+<img  target="Header" alt="HTML" src="img/Header.png" />
 
 # Hello and Welcome
 
